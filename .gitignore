@@ -1,0 +1,11 @@
+*.swp
+*.pyc
+working/
+log/*
+__pycache__/
+venv/
+etc/config.ini
+.saq_alerts
+etc/logging.ini
+observables.txt
+
